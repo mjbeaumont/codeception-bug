@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpTestFrameworkSettings">
+    <test_tools>
+      <tool tool_name="Codeception">
+        <settings>
+          <configurations>
+            <configuration_by_sdk interpreter_id="27706563-2f70-4185-9475-51f99f0d4e68" configuration_file_path="/var/www/houseofpotentia.com/tests/unit.suite.yml" executable_path="/var/www/houseofpotentia.com/vendor/bin/codecept" use_configuration_file="true" />
+            <local_configuration executable_path="$PROJECT_DIR$/vendor/codeception/base/codecept" />
+          </configurations>
+        </settings>
+      </tool>
+    </test_tools>
+  </component>
+  <component name="PhpTestFrameworkVersionCache">
+    <tools_cache>
+      <tool tool_name="Codeception">
+        <cache>
+          <versions>
+            <info id="interpreter-27706563-2f70-4185-9475-51f99f0d4e68" version="2.3.4" />
+          </versions>
+        </cache>
+      </tool>
+    </tools_cache>
+  </component>
+</project>
