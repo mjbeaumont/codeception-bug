@@ -1,0 +1,16 @@
+{
+    "name": "mjbeaumont/phpstorm-bug",
+    "description": "PHPStorm/Codeception Bug Project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Matthew Beaumont",
+            "email": "matt@beaumontwebdev.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "codeception/base": "^2.3",
+        "codeception/specify": "^0.4.6"
+    }
+}
